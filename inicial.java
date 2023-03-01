@@ -14,6 +14,6 @@ public static boolean hyperPar(int num){
             return true;
       } 
       else {
-         delvolver false;
+         delreturnvolver false;
       }
 }
